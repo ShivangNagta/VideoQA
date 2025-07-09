@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+transformers
+torch==2.1.0
+torchvision==0.16.0
+pillow
+python-multipart
+numpy<2.0
+requests
+requests
+faiss-cpu
+opencv-python-headless
+scikit-learn
+
